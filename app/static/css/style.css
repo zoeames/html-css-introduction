@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Monoton);
+body{
+  margin: 0px;
+  background-color: grey;
+}
+
+h1{
+  border: 3px double red;
+  font-family: 'Monoton', cursive;
+  color: blue;
+  background-color: yellow;
+  font-size: 90px;
+  letter-spacing: 3px;
+  padding: 10px;
+  margin: 0px;
+}
+nav{
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+#awesome{
+color: blue;
+}
+
+.super{
+color: red;
+}
+
+a{
+text-decoration: none;
+color: navy;
+border: 1px dashed navy;
+padding: 5px;
+margin: 5px;
+}
+
+a:hover{
+text-decoration: underline;
+color: red;
+background-color: white;
+}
+
+footer{
+margin-top: 25px;
+}
